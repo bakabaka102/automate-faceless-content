@@ -31,7 +31,7 @@
 - [ ] 1-2 videos/day
 - [ ] Optimal times (9-11 AM, 7-9 PM)
 - [ ] Consistent schedule
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Use [Syllaby.io](https://syllaby.io/)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate Facebook!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to dominate Facebook!*
 
 
 

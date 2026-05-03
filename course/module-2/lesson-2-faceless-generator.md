@@ -392,7 +392,7 @@ You have **4 powerful options**:
 ## Resources
 
 - [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [Syllaby.io Platform](https://syllaby.io/) - Start creating
 - [Video Editing Guide](./lesson-4-editing.md) - Next step
 
 ---
@@ -401,7 +401,7 @@ You have **4 powerful options**:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start mastering the Faceless Video Generator today!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) and start mastering the Faceless Video Generator today!*
 
 
 

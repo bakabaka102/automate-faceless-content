@@ -140,7 +140,7 @@
 
 ### How to Create Affiliate Videos
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://syllaby.io/)**:
 
 **Method 1: URL to Video** (Fastest):
 1. Paste product URL
@@ -158,7 +158,7 @@
 
 **Method 3: Custom Script**:
 1. Write your own review script
-2. Create video with [Syllaby.io](https://syllaby.io/?via=chris56)
+2. Create video with [Syllaby.io](https://syllaby.io/)
 3. Add affiliate link
 4. Publish
 
@@ -341,7 +341,7 @@
 
 - [ ] Join 5 affiliate programs
 - [ ] Get affiliate links
-- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://syllaby.io/)
 - [ ] Add affiliate links to video descriptions
 - [ ] Mention links in videos
 - [ ] Create comparison video
@@ -357,7 +357,7 @@
 
 1. **Affiliate marketing** = 5-10x AdSense potential
 2. **Start with Amazon** + software programs
-3. **Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)** = fast affiliate content
+3. **Use [Syllaby.io URL to Video](https://syllaby.io/)** = fast affiliate content
 4. **Build trust first** = better conversions
 5. **Track everything** = optimize performance
 6. **Scale winners** = profitable income
@@ -373,7 +373,7 @@
 ## Resources
 
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create affiliate content
+- [Syllaby.io Platform](https://syllaby.io/) - Create affiliate content
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
@@ -382,5 +382,5 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create affiliate content that converts!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to create affiliate content that converts!*
 

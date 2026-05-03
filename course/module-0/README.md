@@ -7,7 +7,7 @@
 
 ## Module Overview
 
-Welcome to The Faceless Video Mastery Course! This module will get you set up and ready to succeed. By the end, you'll understand what you'll achieve and have your [Syllaby.io account](https://syllaby.io/?via=chris56) ready to go.
+Welcome to The Faceless Video Mastery Course! This module will get you set up and ready to succeed. By the end, you'll understand what you'll achieve and have your [Syllaby.io account](https://syllaby.io/) ready to go.
 
 **This is your foundation for success.**
 
@@ -22,7 +22,7 @@ Welcome to The Faceless Video Mastery Course! This module will get you set up an
 ## Action Items
 
 By the end of this module, you will have:
-- [ ] Created your [Syllaby.io account](https://syllaby.io/?via=chris56) (free trial)
+- [ ] Created your [Syllaby.io account](https://syllaby.io/) (free trial)
 - [ ] Explored the dashboard for 10 minutes
 - [ ] Connected at least one social media account (YouTube recommended)
 - [ ] Written down your goals (niche, goals, timeline, why)
@@ -38,7 +38,7 @@ By the end of this module, you will have:
 - [Account Setup Guide](../../guides/getting-started/account-setup.md)
 - [Dashboard Overview](../../guides/getting-started/dashboard-overview.md)
 - [Connecting Accounts Guide](../../guides/getting-started/connecting-accounts.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://syllaby.io/)
 
 ---
 
@@ -52,7 +52,7 @@ By the end of this module, you will have:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start your journey!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to start your journey!*
 
 
 

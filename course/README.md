@@ -6,7 +6,7 @@
 
 ## 🚀 Welcome to Your Success Journey
 
-This course will teach you everything you need to build a profitable faceless video content business using [Syllaby.io](https://syllaby.io/?via=chris56). By the end, you'll be creating professional videos in 5 minutes, monetized on all platforms, and generating $1,000+/month in passive income.
+This course will teach you everything you need to build a profitable faceless video content business using [Syllaby.io](https://syllaby.io/). By the end, you'll be creating professional videos in 5 minutes, monetized on all platforms, and generating $1,000+/month in passive income.
 
 ---
 
@@ -92,7 +92,7 @@ By completing this course, you will:
 ✅ Create professional videos in **5 minutes**  
 ✅ Get monetized on all platforms in **2-3 weeks**  
 ✅ Generate **$1,000+/month** in passive income  
-✅ Master every [Syllaby.io](https://syllaby.io/?via=chris56) feature  
+✅ Master every [Syllaby.io](https://syllaby.io/) feature  
 ✅ Build a **scalable content business**  
 ✅ Have **multiple revenue streams**  
 ✅ Dominate **multiple platforms**  
@@ -106,7 +106,7 @@ By completing this course, you will:
 - Internet connection
 - Computer or mobile device
 - Willingness to learn and take action
-- **[Syllaby.io account](https://syllaby.io/?via=chris56)** (free trial available - no credit card required)
+- **[Syllaby.io account](https://syllaby.io/)** (free trial available - no credit card required)
 
 **What You Don't Need**:
 - ❌ Video editing experience
@@ -139,7 +139,7 @@ Consistency beats perfection. Take action daily.
 
 ### Step 1: Get Your Syllaby.io Account
 
-**[👉 Start Your Free Trial at Syllaby.io](https://syllaby.io/?via=chris56)**
+**[👉 Start Your Free Trial at Syllaby.io](https://syllaby.io/)**
 
 **Why Start Now?**:
 - ✅ Free trial (no credit card required)
@@ -181,7 +181,7 @@ Consistency beats perfection. Take action daily.
 ## 🎓 Course Investment
 
 **Course Value**: $997  
-**Your Investment**: **FREE** (with [Syllaby.io subscription](https://syllaby.io/?via=chris56))
+**Your Investment**: **FREE** (with [Syllaby.io subscription](https://syllaby.io/))
 
 **Why Free?**:
 - We want you to succeed
@@ -189,7 +189,7 @@ Consistency beats perfection. Take action daily.
 - Community-driven growth
 
 **What You Need**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56) (starting at $25/month)
+- [Syllaby.io subscription](https://syllaby.io/) (starting at $25/month)
 - Commitment to take action
 - 4-6 weeks of focused effort
 
@@ -199,7 +199,7 @@ Consistency beats perfection. Take action daily.
 
 **Ready to transform your life?**
 
-1. **[Get Syllaby.io →](https://syllaby.io/?via=chris56)** (Free trial)
+1. **[Get Syllaby.io →](https://syllaby.io/)** (Free trial)
 2. **[Start Module 0 →](./module-0/welcome.md)**
 3. **Take Action Daily**
 4. **See Results in 2-3 Weeks**

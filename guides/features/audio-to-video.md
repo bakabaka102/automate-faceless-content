@@ -150,13 +150,13 @@ Convert any audio into professional video content - perfect for repurposing podc
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start converting audio to video
+- [Syllaby.io Platform](https://syllaby.io/) - Start converting audio to video
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose content
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to convert audio to video!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to convert audio to video!*
 
 
 

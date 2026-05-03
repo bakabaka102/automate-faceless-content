@@ -76,7 +76,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and stay current with updates!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) and stay current with updates!*
 
 
 

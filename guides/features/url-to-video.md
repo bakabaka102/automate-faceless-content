@@ -151,13 +151,13 @@ Turn any webpage into a professional video - perfect for affiliate marketers and
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using URL to Video
+- [Syllaby.io Platform](https://syllaby.io/) - Start using URL to Video
 - [Affiliate Marketing Guide](../monetization/affiliate-marketing.md) - Complete strategy
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to turn any URL into a video!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to turn any URL into a video!*
 
 
 

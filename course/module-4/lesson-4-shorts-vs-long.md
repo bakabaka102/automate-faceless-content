@@ -380,7 +380,7 @@
 
 **Implement both strategies**:
 
-- [ ] Create 5 Shorts using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 5 Shorts using [Syllaby.io](https://syllaby.io/)
 - [ ] Create 2 long-form videos
 - [ ] Set up cross-promotion
 - [ ] Create playlist for series
@@ -413,7 +413,7 @@
 ## Resources
 
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Repurpose content
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create both formats
+- [Syllaby.io Platform](https://syllaby.io/) - Create both formats
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
@@ -422,7 +422,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create both Shorts and long-form content!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to create both Shorts and long-form content!*
 
 
 

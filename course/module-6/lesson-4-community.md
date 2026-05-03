@@ -188,7 +188,7 @@
 ## Resources
 
 - [Community Building Guide](../../../guides/strategies/community-building.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create engaging content
+- [Syllaby.io Platform](https://syllaby.io/) - Create engaging content
 - [Engagement Strategies](../../../guides/strategies/engagement-strategies.md) - More tips
 
 ---
@@ -197,7 +197,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that builds community!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to create content that builds community!*
 
 
 

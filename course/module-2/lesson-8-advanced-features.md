@@ -7,7 +7,7 @@
 
 ## Advanced Features Overview
 
-[Syllaby.io](https://syllaby.io/?via=chris56) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
+[Syllaby.io](https://syllaby.io/) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
 
 ---
 
@@ -410,7 +410,7 @@
 ## Resources
 
 - [All Feature Guides](../../../guides/features/) - Complete documentation
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Master all features
+- [Syllaby.io Platform](https://syllaby.io/) - Master all features
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - Optimization tips
 
 ---
@@ -419,7 +419,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and master all features to scale your content!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) and master all features to scale your content!*
 
 
 

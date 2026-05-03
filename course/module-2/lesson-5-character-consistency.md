@@ -34,7 +34,7 @@
 - Branded appearance
 
 **Why It's Unique**:
-- Only available on [Syllaby.io](https://syllaby.io/?via=chris56)
+- Only available on [Syllaby.io](https://syllaby.io/)
 - Other tools can't do this
 - True character consistency
 - Professional quality
@@ -333,7 +333,7 @@
 ## Resources
 
 - [Character Consistency Guide](../../../guides/features/character-consistency.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using character consistency
+- [Syllaby.io Platform](https://syllaby.io/) - Start using character consistency
 - [Brand Building Guide](../../../guides/strategies/content-strategies.md) - More strategies
 
 ---
@@ -342,7 +342,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your brand with character consistency!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) and start building your brand with character consistency!*
 
 
 

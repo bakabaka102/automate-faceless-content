@@ -77,7 +77,7 @@
 - Canva (free templates)
 - Photoshop
 - Fiverr (hire designer)
-- [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56) (adapt for banner)
+- [Syllaby.io Thumbnail Generator](https://syllaby.io/) (adapt for banner)
 
 ---
 
@@ -113,7 +113,7 @@
 - **CTA**: Subscribe button
 
 **How to Create**:
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) to create
+- Use [Syllaby.io](https://syllaby.io/) to create
 - Script: "Welcome to [Channel Name]. I create [content type] to help you [benefit]. Subscribe for [value]."
 - Professional quality
 - Engaging visuals
@@ -352,7 +352,7 @@ Subscribe for daily content creation tips!
 - [ ] Create and upload profile picture
 - [ ] Write channel description
 - [ ] Add channel keywords
-- [ ] Create channel trailer using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create channel trailer using [Syllaby.io](https://syllaby.io/)
 - [ ] Set up channel sections
 - [ ] Add links and contact info
 - [ ] Configure channel settings
@@ -395,7 +395,7 @@ Subscribe for daily content creation tips!
 
 - [Account Setup Guide](../../../guides/getting-started/account-setup.md) - Syllaby.io setup
 - [Dashboard Overview](../../../guides/getting-started/dashboard-overview.md) - Learn the platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [Syllaby.io Platform](https://syllaby.io/) - Start creating content
 
 ---
 
@@ -403,7 +403,7 @@ Subscribe for daily content creation tips!
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating content for your new channel!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to start creating content for your new channel!*
 
 
 

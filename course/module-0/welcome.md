@@ -12,7 +12,7 @@
 In this module, you'll:
 - Understand what you'll achieve
 - See real success stories
-- Set up your [Syllaby.io account](https://syllaby.io/?via=chris56)
+- Set up your [Syllaby.io account](https://syllaby.io/)
 - Connect your social media accounts
 - Prepare for success
 
@@ -59,7 +59,7 @@ By the end of this course, you will:
 
 **Real Results from Real People**:
 
-- **150,000+ users** have signed up for [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** have signed up for [Syllaby.io](https://syllaby.io/)
 - **250,000+ videos** created in the platform
 - Users growing from **10 to 65+ subscribers in days**
 - Videos reaching **1,300-1,500 views** (vs. previous 50-60)
@@ -151,7 +151,7 @@ These people started exactly where you are. They:
 
 ### What is Syllaby.io?
 
-[Syllaby.io](https://syllaby.io/?via=chris56) is the **only A-to-Z workflow video marketing tool** that handles:
+[Syllaby.io](https://syllaby.io/) is the **only A-to-Z workflow video marketing tool** that handles:
 
 - ✅ **Idea Discovery**: Find viral topics
 - ✅ **AI Script Generation**: Write scripts automatically
@@ -194,7 +194,7 @@ These people started exactly where you are. They:
 
 ### Step 1: Create Your Free Trial
 
-**[👉 Click Here to Start Your Free Trial](https://syllaby.io/?via=chris56)**
+**[👉 Click Here to Start Your Free Trial](https://syllaby.io/)**
 
 **Why Start Now?**:
 - ✅ **No credit card required** for trial
@@ -255,7 +255,7 @@ Before moving forward, write down:
 
 **Complete These Before Moving to Module 1**:
 
-- [ ] Create your [Syllaby.io account](https://syllaby.io/?via=chris56) (free trial)
+- [ ] Create your [Syllaby.io account](https://syllaby.io/) (free trial)
 - [ ] Explore the dashboard for 10 minutes
 - [ ] Connect at least one social media account (YouTube recommended)
 - [ ] Write down your goals (niche, goals, timeline, why)
@@ -312,7 +312,7 @@ Before moving forward, write down:
 
 ---
 
-*Remember: [Get your Syllaby.io account here](https://syllaby.io/?via=chris56) if you haven't already!*
+*Remember: [Get your Syllaby.io account here](https://syllaby.io/) if you haven't already!*
 
 
 

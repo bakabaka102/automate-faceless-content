@@ -9,7 +9,7 @@
 ![Self Paced](https://img.shields.io/badge/Self-Paced-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-All%20Social%20Media-purple?style=for-the-badge)
 
-<a href="https://syllaby.io/?via=chris56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
+<a href="https://syllaby.io/"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
@@ -19,11 +19,11 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 ---
 
-### [🚀 Join Syllaby.io - Start Your Free Trial →](https://syllaby.io/?via=chris56)
+### [🚀 Join Syllaby.io - Start Your Free Trial →](https://syllaby.io/)
 
 **In order to take full advantage of this course and guide, join Syllaby for free!**
 
-[![Join Syllaby](https://img.shields.io/badge/Join%20Syllaby.io-Start%20Free%20Trial-brightgreen?style=for-the-badge&logo=syllaby)](https://syllaby.io/?via=chris56)
+[![Join Syllaby](https://img.shields.io/badge/Join%20Syllaby.io-Start%20Free%20Trial-brightgreen?style=for-the-badge&logo=syllaby)](https://syllaby.io/)
 
 ---
 
@@ -56,10 +56,10 @@ Learn how to automate faceless short-form + long-form video content and dominate
 - ✅ Create professional videos in 5 minutes
 - ✅ Get monetized on all platforms in 2-3 weeks
 - ✅ Generate $1,000+/month in passive income
-- ✅ Master every [Syllaby.io](https://syllaby.io/?via=chris56) feature
+- ✅ Master every [Syllaby.io](https://syllaby.io/) feature
 - ✅ Build a scalable content business
 
-**[Get Started with the Course →](./course/README.md)** | **[Get Syllaby.io Free Trial →](https://syllaby.io/?via=chris56)**
+**[Get Started with the Course →](./course/README.md)** | **[Get Syllaby.io Free Trial →](https://syllaby.io/)**
 
 ---
 
@@ -91,10 +91,10 @@ Learn how to automate faceless short-form + long-form video content and dominate
 **Best for**: Those who prefer to learn at their own pace
 
 1. [Getting Started Guide](./guides/getting-started/introduction.md) - Learn the basics
-2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [Syllaby.io account](https://syllaby.io/?via=chris56)
+2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [Syllaby.io account](https://syllaby.io/)
 3. [Your First Video](./guides/getting-started/your-first-video.md) - Create your first faceless video in 5 minutes
 
-**👉 [Get Your Free Syllaby.io Trial →](https://syllaby.io/?via=chris56)**
+**👉 [Get Your Free Syllaby.io Trial →](https://syllaby.io/)**
 
 ---
 
@@ -266,7 +266,7 @@ Additional resources and support
 
 Ready to automate your faceless video content and dominate social media?
 
-**[👉 Start Your Free Trial at Syllaby.io](https://syllaby.io/?via=chris56)**
+**[👉 Start Your Free Trial at Syllaby.io](https://syllaby.io/)**
 
 No credit card required for the trial. Cancel anytime.
 

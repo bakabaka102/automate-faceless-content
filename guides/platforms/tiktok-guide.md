@@ -72,7 +72,7 @@ Complete guide to dominating TikTok with faceless video content.
 
 **Why**: More content = more opportunities
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://syllaby.io/)**:
 - Create multiple videos quickly
 - Consistent quality
 - Easy management
@@ -181,19 +181,19 @@ Complete guide to dominating TikTok with faceless video content.
 2. **Hook in 3 seconds** = retention
 3. **3-5 videos/day** = faster growth
 4. **Drive to YouTube** = subscriber growth
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [Syllaby.io](https://syllaby.io/)** = consistent quality
 
 ---
 
 ## Resources
 
 - [Multi-Platform Strategy Guide](../strategies/multi-platform.md) - Cross-platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create TikTok content
+- [Syllaby.io Platform](https://syllaby.io/) - Create TikTok content
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate TikTok!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to dominate TikTok!*
 
 
 

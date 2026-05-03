@@ -49,7 +49,7 @@ This exclusive discount makes it even easier to get started with ViralWave Studi
 
 ## 2. 🎯 Syllaby
 
-**[Get Started with Syllaby →](https://syllaby.io/?via=chris56)**
+**[Get Started with Syllaby →](https://syllaby.io/)**
 
 Syllaby is a specialized content creation tool that focuses on generating and automating faceless video content. It's perfect for creators who want to dominate YouTube, TikTok, Facebook, and Instagram with AI-powered faceless videos.
 
@@ -106,7 +106,7 @@ This combination gives you the best of both worlds - specialized video creation 
 
 ## 🎯 Getting Started
 
-1. **Start with Syllaby** for your faceless video content: [Get Free Trial →](https://syllaby.io/?via=chris56)
+1. **Start with Syllaby** for your faceless video content: [Get Free Trial →](https://syllaby.io/)
 2. **Add ViralWave Studio** for comprehensive content automation: [Visit ViralWave Studio →](https://viralwavestudio.com)
    - **💡 Don't forget to use promo code `WELCOME15` for 15% off your first 3 months!**
 3. **Follow this course** to master both tools and build your content empire

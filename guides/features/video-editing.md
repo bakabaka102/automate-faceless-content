@@ -172,13 +172,13 @@ Complete guide to editing your videos in Syllaby.io for perfect results.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start editing
+- [Syllaby.io Platform](https://syllaby.io/) - Start editing
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 - [Best Practices Guide](../resources/best-practices.md) - More tips
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start editing your videos!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to start editing your videos!*
 
 
 

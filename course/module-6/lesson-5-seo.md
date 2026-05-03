@@ -27,7 +27,7 @@
 
 ### 1. Keyword Research
 
-**Using [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Idea Discovery](https://syllaby.io/)**:
 - Research high-volume keywords
 - Find low-competition terms
 - Identify trending topics
@@ -70,7 +70,7 @@
 - 5-10 relevant tags
 - Mix broad and specific
 - Include variations
-- Use [Idea Discovery](https://syllaby.io/?via=chris56) for research
+- Use [Idea Discovery](https://syllaby.io/) for research
 
 **Pro Tip**: Use tags that match search queries.
 
@@ -138,7 +138,7 @@
 
 ## Pro Tips
 
-### 1. Use [Idea Discovery](https://syllaby.io/?via=chris56)
+### 1. Use [Idea Discovery](https://syllaby.io/)
 
 **Why**: Real-time data, high-volume keywords
 
@@ -172,7 +172,7 @@
 
 **Optimize for SEO**:
 
-- [ ] Research keywords using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research keywords using [Idea Discovery](https://syllaby.io/)
 - [ ] Optimize titles
 - [ ] Write SEO descriptions
 - [ ] Add relevant tags
@@ -206,7 +206,7 @@
 
 - [SEO Guide](../../../guides/strategies/seo-strategies.md) - Complete guide
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Keyword research
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Research keywords
+- [Syllaby.io Platform](https://syllaby.io/) - Research keywords
 
 ---
 
@@ -214,7 +214,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to research keywords and optimize for SEO!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) to research keywords and optimize for SEO!*
 
 
 

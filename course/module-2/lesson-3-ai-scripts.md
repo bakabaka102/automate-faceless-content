@@ -353,7 +353,7 @@ A: Yes, if you add them in the CTA section, AI will include them.
 ## Resources
 
 - [Faceless Video Generator Guide](./lesson-2-faceless-generator.md) - Complete workflow
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating scripts
+- [Syllaby.io Platform](https://syllaby.io/) - Start generating scripts
 - [Script Writing Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -362,7 +362,7 @@ A: Yes, if you add them in the CTA section, AI will include them.
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using AI Script Assistant to save hours!*
+*Remember: [Get your Syllaby.io account](https://syllaby.io/) and start using AI Script Assistant to save hours!*
 
 
 

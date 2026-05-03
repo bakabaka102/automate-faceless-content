@@ -7,7 +7,7 @@
 
 ## Module Overview
 
-In this module, you'll master every feature of [Syllaby.io](https://syllaby.io/?via=chris56). By the end, you'll be creating professional videos in minutes, not hours.
+In this module, you'll master every feature of [Syllaby.io](https://syllaby.io/). By the end, you'll be creating professional videos in minutes, not hours.
 
 **This module is critical** - mastery here determines your success.
 
@@ -42,7 +42,7 @@ By the end of this module, you will have:
 - [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md)
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md)
 - [Video Editing Guide](../../../guides/features/video-editing.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://syllaby.io/)
 
 ---
 
